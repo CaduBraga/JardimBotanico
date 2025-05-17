@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h5 a, h3 a {
+    text-decoration: none;
+    color: darkorange;
+}
+
+.medicinais{
+    color: green;
+}
+
+.ornamentais{
+    color: purple;
+}
+
+p {
+    font-size: 18px;
+}
+
+span.medicinais:hover {
+    background-color: lightgreen;
+}
+
+span.ornamentais:hover {
+    background-color: plum;
+}
+
+span.paginaInicial:hover {
+    background-color: peachpuff;
+}
