@@ -2,7 +2,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-h1, h5 a {
+h1, h3 a {
     text-decoration: none;
     color: darkorange;
 }
